@@ -1,0 +1,15 @@
+C:\Users\rune1\source\repos\opgave_5\bin\Debug\net7.0\opgave_5.exe
+C:\Users\rune1\source\repos\opgave_5\bin\Debug\net7.0\opgave_5.deps.json
+C:\Users\rune1\source\repos\opgave_5\bin\Debug\net7.0\opgave_5.runtimeconfig.json
+C:\Users\rune1\source\repos\opgave_5\bin\Debug\net7.0\opgave_5.dll
+C:\Users\rune1\source\repos\opgave_5\bin\Debug\net7.0\opgave_5.pdb
+C:\Users\rune1\source\repos\opgave_5\obj\Debug\net7.0\opgave_5.csproj.AssemblyReference.cache
+C:\Users\rune1\source\repos\opgave_5\obj\Debug\net7.0\opgave_5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rune1\source\repos\opgave_5\obj\Debug\net7.0\opgave_5.AssemblyInfoInputs.cache
+C:\Users\rune1\source\repos\opgave_5\obj\Debug\net7.0\opgave_5.AssemblyInfo.cs
+C:\Users\rune1\source\repos\opgave_5\obj\Debug\net7.0\opgave_5.csproj.CoreCompileInputs.cache
+C:\Users\rune1\source\repos\opgave_5\obj\Debug\net7.0\opgave_5.dll
+C:\Users\rune1\source\repos\opgave_5\obj\Debug\net7.0\refint\opgave_5.dll
+C:\Users\rune1\source\repos\opgave_5\obj\Debug\net7.0\opgave_5.pdb
+C:\Users\rune1\source\repos\opgave_5\obj\Debug\net7.0\opgave_5.genruntimeconfig.cache
+C:\Users\rune1\source\repos\opgave_5\obj\Debug\net7.0\ref\opgave_5.dll

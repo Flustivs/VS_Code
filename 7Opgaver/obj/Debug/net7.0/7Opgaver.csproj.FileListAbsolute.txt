@@ -1,0 +1,15 @@
+C:\Users\rune1\source\repos\7Opgaver\bin\Debug\net7.0\7Opgaver.exe
+C:\Users\rune1\source\repos\7Opgaver\bin\Debug\net7.0\7Opgaver.deps.json
+C:\Users\rune1\source\repos\7Opgaver\bin\Debug\net7.0\7Opgaver.runtimeconfig.json
+C:\Users\rune1\source\repos\7Opgaver\bin\Debug\net7.0\7Opgaver.dll
+C:\Users\rune1\source\repos\7Opgaver\bin\Debug\net7.0\7Opgaver.pdb
+C:\Users\rune1\source\repos\7Opgaver\obj\Debug\net7.0\7Opgaver.csproj.AssemblyReference.cache
+C:\Users\rune1\source\repos\7Opgaver\obj\Debug\net7.0\7Opgaver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rune1\source\repos\7Opgaver\obj\Debug\net7.0\7Opgaver.AssemblyInfoInputs.cache
+C:\Users\rune1\source\repos\7Opgaver\obj\Debug\net7.0\7Opgaver.AssemblyInfo.cs
+C:\Users\rune1\source\repos\7Opgaver\obj\Debug\net7.0\7Opgaver.csproj.CoreCompileInputs.cache
+C:\Users\rune1\source\repos\7Opgaver\obj\Debug\net7.0\7Opgaver.dll
+C:\Users\rune1\source\repos\7Opgaver\obj\Debug\net7.0\refint\7Opgaver.dll
+C:\Users\rune1\source\repos\7Opgaver\obj\Debug\net7.0\7Opgaver.pdb
+C:\Users\rune1\source\repos\7Opgaver\obj\Debug\net7.0\7Opgaver.genruntimeconfig.cache
+C:\Users\rune1\source\repos\7Opgaver\obj\Debug\net7.0\ref\7Opgaver.dll

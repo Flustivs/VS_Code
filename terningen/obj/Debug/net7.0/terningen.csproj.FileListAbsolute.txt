@@ -1,0 +1,15 @@
+C:\Users\rune1\source\repos\terningen\bin\Debug\net7.0\terningen.exe
+C:\Users\rune1\source\repos\terningen\bin\Debug\net7.0\terningen.deps.json
+C:\Users\rune1\source\repos\terningen\bin\Debug\net7.0\terningen.runtimeconfig.json
+C:\Users\rune1\source\repos\terningen\bin\Debug\net7.0\terningen.dll
+C:\Users\rune1\source\repos\terningen\bin\Debug\net7.0\terningen.pdb
+C:\Users\rune1\source\repos\terningen\obj\Debug\net7.0\terningen.csproj.AssemblyReference.cache
+C:\Users\rune1\source\repos\terningen\obj\Debug\net7.0\terningen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rune1\source\repos\terningen\obj\Debug\net7.0\terningen.AssemblyInfoInputs.cache
+C:\Users\rune1\source\repos\terningen\obj\Debug\net7.0\terningen.AssemblyInfo.cs
+C:\Users\rune1\source\repos\terningen\obj\Debug\net7.0\terningen.csproj.CoreCompileInputs.cache
+C:\Users\rune1\source\repos\terningen\obj\Debug\net7.0\terningen.dll
+C:\Users\rune1\source\repos\terningen\obj\Debug\net7.0\refint\terningen.dll
+C:\Users\rune1\source\repos\terningen\obj\Debug\net7.0\terningen.pdb
+C:\Users\rune1\source\repos\terningen\obj\Debug\net7.0\terningen.genruntimeconfig.cache
+C:\Users\rune1\source\repos\terningen\obj\Debug\net7.0\ref\terningen.dll

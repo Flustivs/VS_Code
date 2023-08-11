@@ -1,0 +1,15 @@
+C:\Users\rune1\source\repos\BMI\bin\Debug\net7.0\BMI.exe
+C:\Users\rune1\source\repos\BMI\bin\Debug\net7.0\BMI.deps.json
+C:\Users\rune1\source\repos\BMI\bin\Debug\net7.0\BMI.runtimeconfig.json
+C:\Users\rune1\source\repos\BMI\bin\Debug\net7.0\BMI.dll
+C:\Users\rune1\source\repos\BMI\bin\Debug\net7.0\BMI.pdb
+C:\Users\rune1\source\repos\BMI\obj\Debug\net7.0\BMI.csproj.AssemblyReference.cache
+C:\Users\rune1\source\repos\BMI\obj\Debug\net7.0\BMI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rune1\source\repos\BMI\obj\Debug\net7.0\BMI.AssemblyInfoInputs.cache
+C:\Users\rune1\source\repos\BMI\obj\Debug\net7.0\BMI.AssemblyInfo.cs
+C:\Users\rune1\source\repos\BMI\obj\Debug\net7.0\BMI.csproj.CoreCompileInputs.cache
+C:\Users\rune1\source\repos\BMI\obj\Debug\net7.0\BMI.dll
+C:\Users\rune1\source\repos\BMI\obj\Debug\net7.0\refint\BMI.dll
+C:\Users\rune1\source\repos\BMI\obj\Debug\net7.0\BMI.pdb
+C:\Users\rune1\source\repos\BMI\obj\Debug\net7.0\BMI.genruntimeconfig.cache
+C:\Users\rune1\source\repos\BMI\obj\Debug\net7.0\ref\BMI.dll

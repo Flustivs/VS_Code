@@ -49,8 +49,9 @@ namespace NIM
                         {
                             Console.WriteLine("Now its players turn, Good luck, you'll need it");
                             Console.WriteLine("How many sticks would you like to take: ");
-                            sticks = sticks - int.Parse(Console.ReadLine());
-                            if (int.Parse(Console.ReadLine()) > 3 || int.Parse(Console.ReadLine()) == 0)
+                            int input = int.Parse(Console.ReadLine());
+                            sticks = sticks - input;
+                            if (input > 3 || input == 0)
                             {
                                 Console.WriteLine("THATS NOT ACCEPTABLE YOU LITTLE DWEEB. NOW TRY AGAI-I-I-I-N-N-N");
                                 break;
@@ -61,6 +62,7 @@ namespace NIM
                         {
                             Console.WriteLine("HA, now its my turn");
                             int pc = rnd.Next(1, 4);
+                            Console.WriteLine("I picked " + pc + " this many sticks,");
                             sticks -= pc;
                             Console.WriteLine("There is now " + sticks + " left on the table");
                         }
@@ -72,7 +74,7 @@ namespace NIM
                             }
                             if (j % 2 == 1)
                             {
-                                Console.WriteLine("wa-a-o-o-w you just hit a 1 in a million, cause normally no one defeats me, but now yoö'll never win in lotto");
+                                Console.WriteLine("wa-a-o-o-w you just hit a 1 in a million, cause normally no one defeats me, but now you'll never win in lotto");
                             }
                         }
                         j++;

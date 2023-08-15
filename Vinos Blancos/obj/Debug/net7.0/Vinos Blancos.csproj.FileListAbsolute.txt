@@ -1,0 +1,15 @@
+C:\Users\rune1\source\repos\Vinos Blancos\bin\Debug\net7.0\Vinos Blancos.exe
+C:\Users\rune1\source\repos\Vinos Blancos\bin\Debug\net7.0\Vinos Blancos.deps.json
+C:\Users\rune1\source\repos\Vinos Blancos\bin\Debug\net7.0\Vinos Blancos.runtimeconfig.json
+C:\Users\rune1\source\repos\Vinos Blancos\bin\Debug\net7.0\Vinos Blancos.dll
+C:\Users\rune1\source\repos\Vinos Blancos\bin\Debug\net7.0\Vinos Blancos.pdb
+C:\Users\rune1\source\repos\Vinos Blancos\obj\Debug\net7.0\Vinos Blancos.csproj.AssemblyReference.cache
+C:\Users\rune1\source\repos\Vinos Blancos\obj\Debug\net7.0\Vinos Blancos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rune1\source\repos\Vinos Blancos\obj\Debug\net7.0\Vinos Blancos.AssemblyInfoInputs.cache
+C:\Users\rune1\source\repos\Vinos Blancos\obj\Debug\net7.0\Vinos Blancos.AssemblyInfo.cs
+C:\Users\rune1\source\repos\Vinos Blancos\obj\Debug\net7.0\Vinos Blancos.csproj.CoreCompileInputs.cache
+C:\Users\rune1\source\repos\Vinos Blancos\obj\Debug\net7.0\Vinos Blancos.dll
+C:\Users\rune1\source\repos\Vinos Blancos\obj\Debug\net7.0\refint\Vinos Blancos.dll
+C:\Users\rune1\source\repos\Vinos Blancos\obj\Debug\net7.0\Vinos Blancos.pdb
+C:\Users\rune1\source\repos\Vinos Blancos\obj\Debug\net7.0\Vinos Blancos.genruntimeconfig.cache
+C:\Users\rune1\source\repos\Vinos Blancos\obj\Debug\net7.0\ref\Vinos Blancos.dll

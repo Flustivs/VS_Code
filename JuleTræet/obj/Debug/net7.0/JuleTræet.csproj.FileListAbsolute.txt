@@ -1,0 +1,15 @@
+C:\Users\rune1\source\repos\JuleTræet\obj\Debug\net7.0\JuleTræet.csproj.AssemblyReference.cache
+C:\Users\rune1\source\repos\JuleTræet\obj\Debug\net7.0\JuleTræet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rune1\source\repos\JuleTræet\obj\Debug\net7.0\JuleTræet.AssemblyInfoInputs.cache
+C:\Users\rune1\source\repos\JuleTræet\obj\Debug\net7.0\JuleTræet.AssemblyInfo.cs
+C:\Users\rune1\source\repos\JuleTræet\obj\Debug\net7.0\JuleTræet.csproj.CoreCompileInputs.cache
+C:\Users\rune1\source\repos\JuleTræet\bin\Debug\net7.0\JuleTræet.exe
+C:\Users\rune1\source\repos\JuleTræet\bin\Debug\net7.0\JuleTræet.deps.json
+C:\Users\rune1\source\repos\JuleTræet\bin\Debug\net7.0\JuleTræet.runtimeconfig.json
+C:\Users\rune1\source\repos\JuleTræet\bin\Debug\net7.0\JuleTræet.dll
+C:\Users\rune1\source\repos\JuleTræet\bin\Debug\net7.0\JuleTræet.pdb
+C:\Users\rune1\source\repos\JuleTræet\obj\Debug\net7.0\JuleTræet.dll
+C:\Users\rune1\source\repos\JuleTræet\obj\Debug\net7.0\refint\JuleTræet.dll
+C:\Users\rune1\source\repos\JuleTræet\obj\Debug\net7.0\JuleTræet.pdb
+C:\Users\rune1\source\repos\JuleTræet\obj\Debug\net7.0\JuleTræet.genruntimeconfig.cache
+C:\Users\rune1\source\repos\JuleTræet\obj\Debug\net7.0\ref\JuleTræet.dll

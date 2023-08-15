@@ -1,0 +1,15 @@
+C:\Users\rune1\source\repos\American_V2\bin\Debug\net7.0\American_V2.exe
+C:\Users\rune1\source\repos\American_V2\bin\Debug\net7.0\American_V2.deps.json
+C:\Users\rune1\source\repos\American_V2\bin\Debug\net7.0\American_V2.runtimeconfig.json
+C:\Users\rune1\source\repos\American_V2\bin\Debug\net7.0\American_V2.dll
+C:\Users\rune1\source\repos\American_V2\bin\Debug\net7.0\American_V2.pdb
+C:\Users\rune1\source\repos\American_V2\obj\Debug\net7.0\American_V2.csproj.AssemblyReference.cache
+C:\Users\rune1\source\repos\American_V2\obj\Debug\net7.0\American_V2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rune1\source\repos\American_V2\obj\Debug\net7.0\American_V2.AssemblyInfoInputs.cache
+C:\Users\rune1\source\repos\American_V2\obj\Debug\net7.0\American_V2.AssemblyInfo.cs
+C:\Users\rune1\source\repos\American_V2\obj\Debug\net7.0\American_V2.csproj.CoreCompileInputs.cache
+C:\Users\rune1\source\repos\American_V2\obj\Debug\net7.0\American_V2.dll
+C:\Users\rune1\source\repos\American_V2\obj\Debug\net7.0\refint\American_V2.dll
+C:\Users\rune1\source\repos\American_V2\obj\Debug\net7.0\American_V2.pdb
+C:\Users\rune1\source\repos\American_V2\obj\Debug\net7.0\American_V2.genruntimeconfig.cache
+C:\Users\rune1\source\repos\American_V2\obj\Debug\net7.0\ref\American_V2.dll

@@ -104,7 +104,7 @@ namespace MorseKode
                         }
                     case ConsoleKey.O:
                         {
-                            Console.WriteLine(space + "— — —" );
+                            Console.WriteLine(space + "— — —");
 
                             break;
                         }

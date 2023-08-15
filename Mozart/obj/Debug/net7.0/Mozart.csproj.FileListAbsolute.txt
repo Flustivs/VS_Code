@@ -1,0 +1,15 @@
+C:\Users\rune1\source\repos\Mozart\bin\Debug\net7.0\Mozart.exe
+C:\Users\rune1\source\repos\Mozart\bin\Debug\net7.0\Mozart.deps.json
+C:\Users\rune1\source\repos\Mozart\bin\Debug\net7.0\Mozart.runtimeconfig.json
+C:\Users\rune1\source\repos\Mozart\bin\Debug\net7.0\Mozart.dll
+C:\Users\rune1\source\repos\Mozart\bin\Debug\net7.0\Mozart.pdb
+C:\Users\rune1\source\repos\Mozart\obj\Debug\net7.0\Mozart.csproj.AssemblyReference.cache
+C:\Users\rune1\source\repos\Mozart\obj\Debug\net7.0\Mozart.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rune1\source\repos\Mozart\obj\Debug\net7.0\Mozart.AssemblyInfoInputs.cache
+C:\Users\rune1\source\repos\Mozart\obj\Debug\net7.0\Mozart.AssemblyInfo.cs
+C:\Users\rune1\source\repos\Mozart\obj\Debug\net7.0\Mozart.csproj.CoreCompileInputs.cache
+C:\Users\rune1\source\repos\Mozart\obj\Debug\net7.0\Mozart.dll
+C:\Users\rune1\source\repos\Mozart\obj\Debug\net7.0\refint\Mozart.dll
+C:\Users\rune1\source\repos\Mozart\obj\Debug\net7.0\Mozart.pdb
+C:\Users\rune1\source\repos\Mozart\obj\Debug\net7.0\Mozart.genruntimeconfig.cache
+C:\Users\rune1\source\repos\Mozart\obj\Debug\net7.0\ref\Mozart.dll

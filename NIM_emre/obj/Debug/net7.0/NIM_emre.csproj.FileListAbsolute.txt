@@ -1,0 +1,14 @@
+C:\Users\rune1\source\repos\NIM_emre\bin\Debug\net7.0\NIM_emre.exe
+C:\Users\rune1\source\repos\NIM_emre\bin\Debug\net7.0\NIM_emre.deps.json
+C:\Users\rune1\source\repos\NIM_emre\bin\Debug\net7.0\NIM_emre.runtimeconfig.json
+C:\Users\rune1\source\repos\NIM_emre\bin\Debug\net7.0\NIM_emre.dll
+C:\Users\rune1\source\repos\NIM_emre\bin\Debug\net7.0\NIM_emre.pdb
+C:\Users\rune1\source\repos\NIM_emre\obj\Debug\net7.0\NIM_emre.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rune1\source\repos\NIM_emre\obj\Debug\net7.0\NIM_emre.AssemblyInfoInputs.cache
+C:\Users\rune1\source\repos\NIM_emre\obj\Debug\net7.0\NIM_emre.AssemblyInfo.cs
+C:\Users\rune1\source\repos\NIM_emre\obj\Debug\net7.0\NIM_emre.csproj.CoreCompileInputs.cache
+C:\Users\rune1\source\repos\NIM_emre\obj\Debug\net7.0\NIM_emre.dll
+C:\Users\rune1\source\repos\NIM_emre\obj\Debug\net7.0\refint\NIM_emre.dll
+C:\Users\rune1\source\repos\NIM_emre\obj\Debug\net7.0\NIM_emre.pdb
+C:\Users\rune1\source\repos\NIM_emre\obj\Debug\net7.0\NIM_emre.genruntimeconfig.cache
+C:\Users\rune1\source\repos\NIM_emre\obj\Debug\net7.0\ref\NIM_emre.dll

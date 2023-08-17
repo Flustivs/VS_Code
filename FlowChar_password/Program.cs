@@ -151,7 +151,6 @@ namespace FlowChar_password
                     passed = 3;
                 }
             }
-
             return passed;
         }
         #endregion
@@ -170,7 +169,6 @@ namespace FlowChar_password
         }
         static string password(int passed = 0)
         {
-
             if (passed == 3)
             {
                 ClearArea(0, 11, 60, 5);
@@ -186,7 +184,6 @@ namespace FlowChar_password
                 Console.WriteLine("\nYour password is valid but weak and its not recommended");
                 Console.ResetColor();
                 Console.WriteLine("Do you want to try another password press any key, else press ESC\n");
-                
             }
             if (passed == 1)
             {

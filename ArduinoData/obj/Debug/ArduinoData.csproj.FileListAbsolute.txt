@@ -1,0 +1,7 @@
+C:\Users\rune1\source\repos\ArduinoData\bin\Debug\ArduinoData.exe.config
+C:\Users\rune1\source\repos\ArduinoData\bin\Debug\ArduinoData.exe
+C:\Users\rune1\source\repos\ArduinoData\bin\Debug\ArduinoData.pdb
+C:\Users\rune1\source\repos\ArduinoData\obj\Debug\ArduinoData.csproj.AssemblyReference.cache
+C:\Users\rune1\source\repos\ArduinoData\obj\Debug\ArduinoData.csproj.CoreCompileInputs.cache
+C:\Users\rune1\source\repos\ArduinoData\obj\Debug\ArduinoData.exe
+C:\Users\rune1\source\repos\ArduinoData\obj\Debug\ArduinoData.pdb

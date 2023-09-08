@@ -1,0 +1,30 @@
+C:\Users\rune1\source\repos\Clap Webs\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\rune1\source\repos\Clap Webs\bin\Debug\net7.0\appsettings.json
+C:\Users\rune1\source\repos\Clap Webs\bin\Debug\net7.0\Clap Webs.staticwebassets.runtime.json
+C:\Users\rune1\source\repos\Clap Webs\bin\Debug\net7.0\Clap Webs.exe
+C:\Users\rune1\source\repos\Clap Webs\bin\Debug\net7.0\Clap Webs.deps.json
+C:\Users\rune1\source\repos\Clap Webs\bin\Debug\net7.0\Clap Webs.runtimeconfig.json
+C:\Users\rune1\source\repos\Clap Webs\bin\Debug\net7.0\Clap Webs.dll
+C:\Users\rune1\source\repos\Clap Webs\bin\Debug\net7.0\Clap Webs.pdb
+C:\Users\rune1\source\repos\Clap Webs\obj\Debug\net7.0\Clap Webs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rune1\source\repos\Clap Webs\obj\Debug\net7.0\Clap Webs.AssemblyInfoInputs.cache
+C:\Users\rune1\source\repos\Clap Webs\obj\Debug\net7.0\Clap Webs.AssemblyInfo.cs
+C:\Users\rune1\source\repos\Clap Webs\obj\Debug\net7.0\Clap Webs.csproj.CoreCompileInputs.cache
+C:\Users\rune1\source\repos\Clap Webs\obj\Debug\net7.0\Clap Webs.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rune1\source\repos\Clap Webs\obj\Debug\net7.0\Clap Webs.RazorAssemblyInfo.cache
+C:\Users\rune1\source\repos\Clap Webs\obj\Debug\net7.0\Clap Webs.RazorAssemblyInfo.cs
+C:\Users\rune1\source\repos\Clap Webs\obj\Debug\net7.0\staticwebassets\msbuild.Clap Webs.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\rune1\source\repos\Clap Webs\obj\Debug\net7.0\staticwebassets\msbuild.build.Clap Webs.props
+C:\Users\rune1\source\repos\Clap Webs\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Clap Webs.props
+C:\Users\rune1\source\repos\Clap Webs\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Clap Webs.props
+C:\Users\rune1\source\repos\Clap Webs\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\rune1\source\repos\Clap Webs\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\rune1\source\repos\Clap Webs\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\rune1\source\repos\Clap Webs\obj\Debug\net7.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\rune1\source\repos\Clap Webs\obj\Debug\net7.0\scopedcss\bundle\Clap Webs.styles.css
+C:\Users\rune1\source\repos\Clap Webs\obj\Debug\net7.0\scopedcss\projectbundle\Clap Webs.bundle.scp.css
+C:\Users\rune1\source\repos\Clap Webs\obj\Debug\net7.0\Clap Webs.dll
+C:\Users\rune1\source\repos\Clap Webs\obj\Debug\net7.0\refint\Clap Webs.dll
+C:\Users\rune1\source\repos\Clap Webs\obj\Debug\net7.0\Clap Webs.pdb
+C:\Users\rune1\source\repos\Clap Webs\obj\Debug\net7.0\Clap Webs.genruntimeconfig.cache
+C:\Users\rune1\source\repos\Clap Webs\obj\Debug\net7.0\ref\Clap Webs.dll

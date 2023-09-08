@@ -1,0 +1,75 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<div class="text-center">
+    <body>
+        <style>
+            body {
+                background-image: url('/img/background_b.png');
+            }
+            <!--
+            here we make the header centered, bigger, blue and transparent
+            -->
+            
+            h1 {
+                text-align: center;
+                font-size: 96px;
+                color: blue;
+                background-image: url('/img/clapping_hands.png');
+                background-color: transparent;
+            }
+        </style>
+        <h1>Clap Counter, with a surprise</h1>
+
+        <table style="width:100%">
+            <tr>
+                <th>Clap counts</th>
+                <th>Pære</th>
+                <th>Blinds</th>
+            </tr>
+            <tr>
+                @{
+                    //here it just keeps the picture of clapping hands
+                    if (Model.Counter == Model.Counter)
+                    {
+                        <th><img src="~/img/clapping_hands.png" alt="Clapping hands" style="width:200px;height:400px;"></th>
+                    }
+                    //here it changes the light bulb from on to off depending on the amount of claps
+                    if (Model.Counter % 2 == 1 || Model.Counter % 2 == 0)
+                    {
+                        if (Model.Counter % 2 == 0)
+                        {
+                            <th><img src="~/img/slukket_pære.png" alt="Slukket Paere" style="width:200px;height:400px;"></th>
+                        }
+                        if (Model.Counter % 2 == 1)
+                        {
+                            <th><img src="~/img/tændt_pære.webp" alt="Slukket Paere" style="width:200px;height:400px;"></th>
+                        }
+                    }
+                    else
+                    {
+                        <th><img src="~/img/slukket_pære.png" alt="Slukket Paere" style="width:200px;height:400px;"></th>
+                    }
+
+                    if (Model.Counter % 2 == 0)
+                    {
+                        <th><img src="~/img/Open_blinds.png" alt="Closed Blinds" style="width:275px;height:400px;"></th>
+                    }
+                    else
+                    {
+                        <th><img src="~/img/closed_blinds.png" alt="Closed Blinds" style="width:275px;height:400px;"></th>
+                    }
+
+                }
+            </tr>
+            <tr id="Counteren">
+                <td>
+                    <i style="font-size: 48px;">@Model.Counter</i>
+                </td>
+            </tr>
+        </table>
+    </body>
+</div>

@@ -1,0 +1,7 @@
+C:\Users\rune1\source\repos\SuperHeros\bin\Debug\SuperHeros.exe.config
+C:\Users\rune1\source\repos\SuperHeros\bin\Debug\SuperHeros.exe
+C:\Users\rune1\source\repos\SuperHeros\bin\Debug\SuperHeros.pdb
+C:\Users\rune1\source\repos\SuperHeros\obj\Debug\SuperHeros.csproj.AssemblyReference.cache
+C:\Users\rune1\source\repos\SuperHeros\obj\Debug\SuperHeros.csproj.CoreCompileInputs.cache
+C:\Users\rune1\source\repos\SuperHeros\obj\Debug\SuperHeros.exe
+C:\Users\rune1\source\repos\SuperHeros\obj\Debug\SuperHeros.pdb

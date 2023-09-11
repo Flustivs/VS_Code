@@ -1,0 +1,7 @@
+C:\Users\rune1\source\repos\Elon's Nye\obj\Debug\Elon's Nye.csproj.AssemblyReference.cache
+C:\Users\rune1\source\repos\Elon's Nye\obj\Debug\Elon's Nye.csproj.CoreCompileInputs.cache
+C:\Users\rune1\source\repos\Elon's Nye\bin\Debug\Elon's Nye.exe.config
+C:\Users\rune1\source\repos\Elon's Nye\bin\Debug\Elon's Nye.exe
+C:\Users\rune1\source\repos\Elon's Nye\bin\Debug\Elon's Nye.pdb
+C:\Users\rune1\source\repos\Elon's Nye\obj\Debug\Elon's Nye.exe
+C:\Users\rune1\source\repos\Elon's Nye\obj\Debug\Elon's Nye.pdb

@@ -1,0 +1,7 @@
+C:\Users\rune1\source\repos\Fordelingshatten\bin\Debug\Fordelingshatten.exe.config
+C:\Users\rune1\source\repos\Fordelingshatten\bin\Debug\Fordelingshatten.exe
+C:\Users\rune1\source\repos\Fordelingshatten\bin\Debug\Fordelingshatten.pdb
+C:\Users\rune1\source\repos\Fordelingshatten\obj\Debug\Fordelingshatten.csproj.AssemblyReference.cache
+C:\Users\rune1\source\repos\Fordelingshatten\obj\Debug\Fordelingshatten.csproj.CoreCompileInputs.cache
+C:\Users\rune1\source\repos\Fordelingshatten\obj\Debug\Fordelingshatten.exe
+C:\Users\rune1\source\repos\Fordelingshatten\obj\Debug\Fordelingshatten.pdb

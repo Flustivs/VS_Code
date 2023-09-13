@@ -29,20 +29,10 @@ namespace BlackJack.Model
         private int PcResult2;
         private string _pcresult1;
         private string _pcresult2;
-
-        /*public void Start()
-        {
-            if (user == null)
-            {
-                string UserCard = GetUserCard1();
-            }
-            else
-            {
-                string Usercard2 = GetUserCard2();
-            }
-                //string PcCard = GetPcCard();
-            CardToNumber();
-        }*/
+        private string _hitCard;
+        private string[] _userHit;
+        private string _hitResult;
+        private int HitResult;
 
         // Gets a Random number
         public int RandomCard()
@@ -199,7 +189,41 @@ namespace BlackJack.Model
             }
             return _pcresult2;
         }
-
+        // If they want to Hit thell get a card
+        public string HitPictureCard()
+        {
+            if (_hitResult == "Ace")
+            {
+                _hitResult = "11";
+            }
+            if (_hitResult == "Jack" || _hitResult == "Queen" || _hitResult == "King")
+            {
+                _hitResult = "10";
+            }
+            return _hitResult;
+        }
+        // Coverts the hitted card to a number
+        public string HitCard()
+        {
+            RandomCard();
+            _userHit = card.Card();
+            _hitCard = _userHit[CardNumber];
+            HitCardToNumber();
+            return _hitCard;
+        }
+        public void HitCardToNumber()
+        {
+            _hitResult = Hit_Card.Split(' ')[0];
+            if (HitPictureCard() == "10" || HitPictureCard() == "11")
+            {
+                _hitResult = HitPictureCard();
+                HitResult = int.Parse(_hitResult);
+            }
+            else
+            {
+                HitResult = int.Parse(_hitResult);
+            }
+        }
         public string PlayerOutput1
         {
             get { return UserCard; }
@@ -235,11 +259,20 @@ namespace BlackJack.Model
             get { return PcResult1; }
             set { PcResult1 = value; }
         }
-
         public int PcCard_2
         {
             get { return PcResult2; }
             set { PcResult2 = value; }
+        }
+        public string Hit_Card
+        {
+            get { return _hitCard; }
+            set { _hitCard = value; }
+        }
+        public int HitCardResult
+        {
+            get { return HitResult; }
+            set { HitResult = value; }
         }
     }
 }

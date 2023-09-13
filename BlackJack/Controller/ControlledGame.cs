@@ -23,6 +23,43 @@ namespace BlackJack.Controller
             Intro.Instructions();
             Intro.DisplayPc(GetPcOutput1(), GetPcOutput2(), PcResult());
             Intro.DisplayUser(PlayerOutput1(), PlayerOutput2(), PlayerCard());
+            ConsoleKeyInfo H = Intro.HitCard;
+            // Check if user input equals H and then checks for who won
+            if (H.Key == ConsoleKey.H)
+            {
+                HitCard();
+                Intro.DisplayHitCard(Begin.Hit_Card, Begin.HitCardResult, PlayerCard());
+                int CheckIfBust = Begin.HitCardResult + PlayerCard();
+                if (CheckIfBust > 21)
+                {
+                    Intro.DisplayBust(Begin.HitCardResult, PlayerCard(), GetPcOutput2(), PcResult());
+                }
+                else
+                {
+                    if (CheckIfBust <= 21 && CheckIfBust > PcResult())
+                    {
+                        Intro.DisplayWon(Begin.HitCardResult, PlayerCard());
+                    }
+                    if (CheckIfBust < 21 && CheckIfBust < PcResult())
+                    {
+                        Intro.DisplayBust(Begin.HitCardResult, PlayerCard(), GetPcOutput2(), PcResult());
+                    }
+                }
+            }
+            //Check if the user input equals S if so they have standed and it will check who won
+            if (H.Key == ConsoleKey.S)
+            {
+                int CheckIfBust = Begin.HitCardResult + PlayerCard();
+
+                if (CheckIfBust <= 21 && CheckIfBust > PcResult())
+                {
+                    Intro.DisplayWon(Begin.HitCardResult, PlayerCard());
+                }
+                if (CheckIfBust < 21 && CheckIfBust < PcResult())
+                {
+                    Intro.DisplayStandedBust(Begin.HitCardResult, PlayerCard(), GetPcOutput2(), PcResult());
+                }
+            }
         }
 
         // I know these probaly should be in the model, but i forgot ☺ ☺ ☺
@@ -69,6 +106,12 @@ namespace BlackJack.Controller
             int Result2 = Begin.PcCard_2;
             int PcResult = Result1 + Result2;
             return PcResult;
+        }
+        public string HitCard()
+        {
+            Begin.HitCard();
+
+            return "";
         }
     }
 }

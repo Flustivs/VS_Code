@@ -1,0 +1,7 @@
+C:\Users\rune1\source\repos\Køen\bin\Debug\Køen.exe.config
+C:\Users\rune1\source\repos\Køen\bin\Debug\Køen.exe
+C:\Users\rune1\source\repos\Køen\bin\Debug\Køen.pdb
+C:\Users\rune1\source\repos\Køen\obj\Debug\Køen.csproj.AssemblyReference.cache
+C:\Users\rune1\source\repos\Køen\obj\Debug\Køen.csproj.CoreCompileInputs.cache
+C:\Users\rune1\source\repos\Køen\obj\Debug\Køen.exe
+C:\Users\rune1\source\repos\Køen\obj\Debug\Køen.pdb

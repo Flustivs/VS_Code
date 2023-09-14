@@ -1,0 +1,7 @@
+C:\Users\rune1\source\repos\En Tur på Biblioteket\obj\Debug\En Tur på Biblioteket.csproj.AssemblyReference.cache
+C:\Users\rune1\source\repos\En Tur på Biblioteket\obj\Debug\En Tur på Biblioteket.csproj.CoreCompileInputs.cache
+C:\Users\rune1\source\repos\En Tur på Biblioteket\bin\Debug\En Tur på Biblioteket.exe.config
+C:\Users\rune1\source\repos\En Tur på Biblioteket\bin\Debug\En Tur på Biblioteket.exe
+C:\Users\rune1\source\repos\En Tur på Biblioteket\bin\Debug\En Tur på Biblioteket.pdb
+C:\Users\rune1\source\repos\En Tur på Biblioteket\obj\Debug\En Tur på Biblioteket.exe
+C:\Users\rune1\source\repos\En Tur på Biblioteket\obj\Debug\En Tur på Biblioteket.pdb

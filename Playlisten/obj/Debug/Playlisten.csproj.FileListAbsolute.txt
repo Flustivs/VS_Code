@@ -1,0 +1,7 @@
+C:\Users\rune1\source\repos\Playlisten\bin\Debug\Playlisten.exe.config
+C:\Users\rune1\source\repos\Playlisten\bin\Debug\Playlisten.exe
+C:\Users\rune1\source\repos\Playlisten\bin\Debug\Playlisten.pdb
+C:\Users\rune1\source\repos\Playlisten\obj\Debug\Playlisten.csproj.AssemblyReference.cache
+C:\Users\rune1\source\repos\Playlisten\obj\Debug\Playlisten.csproj.CoreCompileInputs.cache
+C:\Users\rune1\source\repos\Playlisten\obj\Debug\Playlisten.exe
+C:\Users\rune1\source\repos\Playlisten\obj\Debug\Playlisten.pdb

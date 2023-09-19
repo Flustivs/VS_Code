@@ -1,0 +1,7 @@
+C:\Users\rune1\source\repos\The Firm\bin\Debug\The Firm.exe.config
+C:\Users\rune1\source\repos\The Firm\bin\Debug\The Firm.exe
+C:\Users\rune1\source\repos\The Firm\bin\Debug\The Firm.pdb
+C:\Users\rune1\source\repos\The Firm\obj\Debug\The Firm.csproj.AssemblyReference.cache
+C:\Users\rune1\source\repos\The Firm\obj\Debug\The Firm.csproj.CoreCompileInputs.cache
+C:\Users\rune1\source\repos\The Firm\obj\Debug\The Firm.exe
+C:\Users\rune1\source\repos\The Firm\obj\Debug\The Firm.pdb

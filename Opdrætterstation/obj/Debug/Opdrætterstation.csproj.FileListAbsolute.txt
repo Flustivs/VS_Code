@@ -1,0 +1,7 @@
+C:\Users\rune1\source\repos\Opdrætterstation\bin\Debug\Opdrætterstation.exe.config
+C:\Users\rune1\source\repos\Opdrætterstation\bin\Debug\Opdrætterstation.exe
+C:\Users\rune1\source\repos\Opdrætterstation\bin\Debug\Opdrætterstation.pdb
+C:\Users\rune1\source\repos\Opdrætterstation\obj\Debug\Opdrætterstation.csproj.AssemblyReference.cache
+C:\Users\rune1\source\repos\Opdrætterstation\obj\Debug\Opdrætterstation.csproj.CoreCompileInputs.cache
+C:\Users\rune1\source\repos\Opdrætterstation\obj\Debug\Opdrætterstation.exe
+C:\Users\rune1\source\repos\Opdrætterstation\obj\Debug\Opdrætterstation.pdb

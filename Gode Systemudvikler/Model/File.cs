@@ -13,15 +13,15 @@ namespace Gode_Systemudvikler.Model
         internal void FileReader()
         {
             string FileName = @"C:\Users\rune1\Desktop\Firm V2.txt";
-            StreamReader reader = new StreamReader(FileName);
             try
             {
+                StreamReader reader = new StreamReader(FileName);
                 controller.Data(DataSave(reader.ReadToEnd()));
-
             }
             catch (FileNotFoundException e)
             {
                 controller.FileNotFound(e);
+                throw e;
             }
             catch (IOException IO)
             {
@@ -34,6 +34,7 @@ namespace Gode_Systemudvikler.Model
             finally
             {
                 controller.Final();
+                StreamReader reader = new StreamReader(FileName);
                 reader.Close();
             }
         }

@@ -11,7 +11,7 @@ namespace Gode_Systemudvikler.View
     {
         internal void FileNotFound(FileNotFoundException e)
         {
-            Console.WriteLine(e + " is not found");
+            Console.WriteLine(e + "\n is not found");
         }
         internal void IOException(IOException e)
         {

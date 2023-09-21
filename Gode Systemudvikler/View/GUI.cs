@@ -7,23 +7,26 @@ using System.Threading.Tasks;
 
 namespace Gode_Systemudvikler.View
 {
+    /// <summary>
+    /// Prints out the exception and a little message by me
+    /// </summary>
     internal class GUI
     {
         internal void FileNotFound(FileNotFoundException e)
         {
-            Console.WriteLine(e + "\n is not found");
+            Console.WriteLine(e + "\n\nFile is not found");
         }
         internal void IOException(IOException e)
         {
-            Console.WriteLine(e + " Closed while running");
+            Console.WriteLine(e + "\n\nClosed while running");
         }
         internal void FormatException(FormatException e)
         {
-            Console.WriteLine(e + " Not correct format");
+            Console.WriteLine(e + "\n\nNot correct format");
         }
         internal void NullReference(NullReferenceException e)
         {
-            Console.WriteLine("The file have no data");
+            Console.WriteLine("\n\nThe file have no data");
         }
         internal void Final()
         {

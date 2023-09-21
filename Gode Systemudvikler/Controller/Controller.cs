@@ -9,6 +9,9 @@ using System.Threading.Tasks;
 
 namespace Gode_Systemudvikler.Controller
 {
+    /// <summary>
+    /// the controller calls gui with the exception depending on what exception have been caught by the file class
+    /// </summary>
     internal class Controller
     {
         View.GUI GUI = new View.GUI();

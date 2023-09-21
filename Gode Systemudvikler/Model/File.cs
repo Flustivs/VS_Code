@@ -13,10 +13,9 @@ namespace Gode_Systemudvikler.Model
         internal void FileReader()
         {
             string FileName = @"C:\Users\rune1\Desktop\Firm V2.txt";
-            StreamReader reader;
+            StreamReader reader = new StreamReader(FileName);
             try
             {
-                reader = new StreamReader(FileName);
                 controller.Data(DataSave(reader.ReadToEnd()));
 
             }
@@ -35,6 +34,7 @@ namespace Gode_Systemudvikler.Model
             finally
             {
                 controller.Final();
+                reader.Close();
             }
         }
         internal short DataSave(string reader)

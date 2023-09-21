@@ -1,0 +1,7 @@
+C:\Users\rune1\source\repos\Gode Systemudvikler\obj\Debug\Gode Systemudvikler.csproj.AssemblyReference.cache
+C:\Users\rune1\source\repos\Gode Systemudvikler\obj\Debug\Gode Systemudvikler.csproj.CoreCompileInputs.cache
+C:\Users\rune1\source\repos\Gode Systemudvikler\bin\Debug\Gode Systemudvikler.exe.config
+C:\Users\rune1\source\repos\Gode Systemudvikler\bin\Debug\Gode Systemudvikler.exe
+C:\Users\rune1\source\repos\Gode Systemudvikler\bin\Debug\Gode Systemudvikler.pdb
+C:\Users\rune1\source\repos\Gode Systemudvikler\obj\Debug\Gode Systemudvikler.exe
+C:\Users\rune1\source\repos\Gode Systemudvikler\obj\Debug\Gode Systemudvikler.pdb
